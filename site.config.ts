@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nona',
+  name: 'NonaBlog',
   domain: 'https://www.notion.so/Nona-52d31c8f3ba04042a9495a25c3b42aba',
   author: 'Nona',
 
