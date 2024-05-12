@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Nona-52d31c8f3ba04042a9495a25c3b42aba',
+  rootNotionPageId: '52d31c8f3ba04042a9495a25c3b42aba?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Nona-Blog',
-  domain: 'https://www.notion.so/Nona-52d31c8f3ba04042a9495a25c3b42aba',
+  domain: 'https://www.notion.so/Nona/52d31c8f3ba04042a9495a25c3b42aba',
   author: 'Nona',
 
   // open graph metadata (optional)
